@@ -1,6 +1,6 @@
 window.onload = function() {
 
-  const apiKey = "ここにあなたのAPIキー"; // ← 自分のキーを入れる
+  const apiKey = "fe225de9d223574200c8a8b7abeb52db"; // ← 自分のキーを入れる
 
   const cities = [
     { name: "東京", lat: 35.6895, lon: 139.6917 },
